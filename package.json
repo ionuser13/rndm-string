@@ -1,0 +1,20 @@
+{
+  "name": "rndm-string",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionuser13/rndm-string.git"
+  },
+  "keywords": [],
+  "author": "John Chacpi <johnchacpi479@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ionuser13/rndm-string/issues"
+  },
+  "homepage": "https://github.com/ionuser13/rndm-string#readme"
+}
