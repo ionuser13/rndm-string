@@ -1,3 +1,3 @@
-#!/usr/bin/env node;
+#!/usr/bin/env node
 let random = require("../src/index.js");
 random.funCommit();
