@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/ionuser13/rndm-string#readme",
   "bin": {
-    "rndm-string": "./bin/global.js" 
+    "rndm-string": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
 }
